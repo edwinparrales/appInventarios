@@ -1,1 +1,2 @@
 PLAN DE TRABAJO E INVESTIGACINES
+1. investigacion sobre php
